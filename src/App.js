@@ -47,7 +47,7 @@ function App() {
       <header className="App-header">
         {/* If weatherData is not undefined, map out the data to DayCard */}
         {!!weatherData && weatherData.map((i, index) => (
-          <div key={index}>
+          <div key={index} style={{backgroundColor: index === 0 ? "#dddddd" : "transparent"}}> {/* Only at index 0, color should be #ddd. */}
             <DayCard day={i.day} desc={i.desc} icon={i.icon} max={i.max} min={i.min} />
           </div>
         ))}

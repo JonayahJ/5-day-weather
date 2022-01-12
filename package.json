@@ -37,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "Basic 5-day weather forecast app",
   "main": "index.js",
   "keywords": [
     "weather",
@@ -52,5 +52,14 @@
     "location"
   ],
   "author": "Jonayah M. Jackson",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonayahJ/5-day-weather.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonayahJ/5-day-weather/issues"
+  },
+  "homepage": "https://github.com/JonayahJ/5-day-weather#readme"
 }
