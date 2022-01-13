@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JonayahJ/5-day-weather/static/css/main.a7c05c96.css",
+    "main.js": "/JonayahJ/5-day-weather/static/js/main.ddf55fcb.js",
+    "index.html": "/JonayahJ/5-day-weather/index.html",
+    "main.a7c05c96.css.map": "/JonayahJ/5-day-weather/static/css/main.a7c05c96.css.map",
+    "main.ddf55fcb.js.map": "/JonayahJ/5-day-weather/static/js/main.ddf55fcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c05c96.css",
+    "static/js/main.ddf55fcb.js"
+  ]
+}
